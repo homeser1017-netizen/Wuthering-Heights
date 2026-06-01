@@ -214,19 +214,19 @@ body.theme-default.layout-multiple-columns {
 
   --color-column: rgba(255, 255, 255, 0.4);
   --color-columns: rgba(255, 255, 255, 0.5);
+  
+  --color-brand-mastodon: #5E6FD8;
+  --color-brand-mastodon-links: #E6C879;
+  --color-accent-dark-50: #5E6FD880;
 
-  --color-brand-mastodon: #be2a4d;
-  --color-brand-mastodon-links: #df98a2;
-  --color-accent-dark-50: #be2a4d80;
-
-  --color-accent:#df98a2;
-  --color-accent-dark: #be2a4d;
+  --color-accent: #F0DCA2;
+  --color-accent-dark: #6F83F2;
 
   --color-bg: #fff;
   --color-fg: #000;
 
-  --color-border: #e9dee0;
-  --color-dim: #c16c80;
+  --color-border: #E5E0D2;
+  --color-dim: #8A95D6;
   --color-light-text: #1f1b23;
 
   --color-green: #17bf63;
@@ -235,7 +235,7 @@ body.theme-default.layout-multiple-columns {
   --color-focusable-toot: rgba(0, 0, 0, 0.035);
 
   --color-light-shade: #00000005;;
-  --color-mud: #f0dee2;
+  --color-mud: #F1EBDD;
 
   --color-black-coral: #9188a6;
 
@@ -246,7 +246,7 @@ body.theme-default.layout-multiple-columns {
   --color-dark: #f7f9f9;
   --color-thread-line: #e1e8ed;
   --color-gainsboro: #8899a6;
-  --color-light-purple: #df98a2;
+  --color-light-purple: #A2ACEE;
   --color-dark-electric-blue: #9088a6;
   --color-bg-75: #ffffffbf;
   --color-accent: var(--color-accent-dark);
